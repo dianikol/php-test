@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "files": ["src/Basic/functions.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
